@@ -1,6 +1,5 @@
 # Candidate-Profile-Change-Tracker
 A comprehensive web application for comparing two versions of a candidate's resume/profile and identifying meaningful changes. Built with Streamlit, Python, and AI fallback support.
-# Candidate Profile Change Tracker
 
 A Streamlit app that compares two versions of a candidate's resume/profile — a "Previous" version and an "Updated" version — and automatically detects and classifies what changed (job title, skills, employer, experience, location, employment dates).
 
